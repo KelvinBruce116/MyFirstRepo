@@ -1,2 +1,3 @@
+Brief Introduction About Myself
 My name is Kelvin Bruce MUPENZI
-I am an ALX student in the program of Pathway
+I am a student at ALX in the Pathway program
