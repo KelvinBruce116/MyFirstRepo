@@ -1,4 +1,4 @@
-#This is what I have learned so far in the course:# 
+#What I have learned from this course# 
 - I have covered the basics of version control 
 - I have worked on some projects to familiarize myself with the platform
 - I have studied some of the important Git commands and when to use them
